@@ -9,8 +9,8 @@ RUN /tmp/go.sh
 FROM alpine:latest
 
 LABEL maintainer "lEE <admin@v2ray.com>"
-LABEL VERSION v4.26.0
-LABEL CTIME 2020-7-19
+LABEL VERSION v4.31.0
+LABEL CTIME 2022-2-13
 
 ENV PORT 59028
 ENV ID="36cc0413-0620-4ff7-b92d-6b99bd6c91d3"
